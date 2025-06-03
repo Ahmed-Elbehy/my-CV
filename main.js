@@ -13,7 +13,7 @@ if(BT_about_me){
         ms_about.style.cssText="width:750px;opacity:1;transition-duration:1s"
         }else{
         ms_about_p.style.cssText="visibility:visible;opacity:1;transition-duration:7s"
-        ms_about.style.cssText="height:300px;opacity:1;transition-duration:1s"
+        ms_about.style.cssText="height:330px;opacity:1;transition-duration:1s"
     }
         action = true
     }else{
